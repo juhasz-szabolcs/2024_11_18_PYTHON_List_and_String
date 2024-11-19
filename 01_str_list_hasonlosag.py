@@ -12,7 +12,7 @@ sztring = 'Ismered ezt a számot?'
 # print(sztring[7:])
 
 # Meghatározhatjuk a hosszukat
-print(len(sztring))
+print(len(sztring)
 
 szamlalo = 0
 # for-ciklussal is bejárhatóak
